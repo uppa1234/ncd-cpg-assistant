@@ -2,7 +2,7 @@
 
 > **AI-powered Q&A over Thai Clinical Practice Guidelines** — Instant answers with source citations for Diabetes, Dyslipidemia, and Hypertension guidelines.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ncdcpg.streamlit.app)
 [![Python](https://img.shields.io/badge/python-3.11+-blue)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3-green)](https://langchain.com)
 
