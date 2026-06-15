@@ -64,6 +64,8 @@ flowchart LR
 | 💊 **Dyslipidemia** | ภาวะไขมันในเลือดผิดปกติ |
 | 🫀 **Hypertension** | โรคความดันโลหิตสูง |
 
+<img width="924" height="648" alt="Screenshot 2026-06-15 at 14 23 53" src="https://github.com/user-attachments/assets/fc46d46d-8db8-41ce-8750-f2f50faaecc1" />
+
 
 ## ⚠️ Disclaimer
 
